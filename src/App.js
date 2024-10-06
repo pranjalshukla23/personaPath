@@ -210,7 +210,19 @@ function App() {
 
   console.log("scores", scores);
   return (
-    <div className="App">
+    <div className="App" style={{
+      padding: "10px"
+    }}>
+      <Box
+        style={{
+          width: "100px",
+          borderRadius: "10px",
+          height: "100px",
+          backgroundImage: "url(/images/harbour-space-logo.png)",
+          backgroundRepeat: "no-repeat",
+          backgroundSize: "cover",
+        }}
+      ></Box>
       <Container
         style={{
           height: "100vh",

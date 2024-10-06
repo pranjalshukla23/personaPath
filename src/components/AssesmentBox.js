@@ -36,7 +36,7 @@ function AssesmentBox() {
             fontWeight: "bold",
           }}
         >
-         PersonaPath: Discover Your Core Strengths
+          PersonaPath: Discover Your Core Strengths
         </Box>
         <Box
           style={{
@@ -45,10 +45,12 @@ function AssesmentBox() {
             textAlign: "left",
           }}
         >
-          Unlock your potential by identifying the right career path for you.
-          Take our career planner test to discover your strengths and interests,
-          and gain the skills needed to thrive in fields like data analysis,
-          digital marketing, and project management.
+          PersonaPath is your go-to skill assessment app designed to help you
+          uncover your core personality strengths. By answering a series of
+          engaging questions, you’ll discover which of the seven unique
+          personality drivers defines your approach to life, learning, and
+          creativity. Unlock your true potential and gain personalized insights
+          that can guide your personal and professional journey!
         </Box>
         <Box
           style={{
